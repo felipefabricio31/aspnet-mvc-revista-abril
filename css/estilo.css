@@ -1,0 +1,79 @@
+body {
+    background: url(../imagens/fundo.png);
+}
+
+/* ANUNCIO */
+
+.publicidade {
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ANUNCIO */
+
+/* MENU NAVEGAÇÃO*/
+
+.navbar {
+    margin-top: 10px;
+}
+
+.navbar li{
+    padding-right: 15px;
+}
+
+/* MENU NAVEGAÇÃO*/
+
+/* BARRA DE PESQUISA */
+
+#divBusca{
+    background-color:#FFFFFF;
+    border:solid 1px;
+    width: 138px;
+}
+
+#txtBusca{
+    background-color:transparent;
+    border:none;
+    width: 75px;
+}
+
+/* BARRA DE PESQUISA */
+
+/* SUBMENU NAVEGAÇÃO*/
+
+.submenu {
+    background: url(../imagens/submenu.fw.png);
+    height: 31px;
+    font-size: 14px;
+}
+
+.menu {
+    padding-top: 5px;
+}
+
+.menu a {
+    display: inline;
+    padding-right: 15px;;
+}
+
+/* SUBMENU NAVEGAÇÃO*/
+
+/* IMAGENS EM DESTAQUE*/
+
+.topo {
+   margin-top: 5px;
+}
+
+/* CARROS EM DESTAQUE */
+
+.destaques {
+    margin-top: 25px;
+    padding-left: 2px;
+    padding-right: 3px;
+    left: 0px;
+    right: 0px;
+}
+
+/* CARROS EM DESTAQUE */
